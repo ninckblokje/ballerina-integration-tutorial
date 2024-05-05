@@ -1,0 +1,14 @@
+{
+    "image": "ballerina/ballerina-devcontainer:2201.9.0",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "wso2.ballerina",
+                "humao.rest-client"
+            ],
+            "settings": {
+                "extensions.verifySignature": false
+            }
+        }
+    }
+}
